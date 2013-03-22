@@ -14,7 +14,7 @@ public class Viitegeneraattori {
     
     private int seuraava;
     
-    private Viitegeneraattori(){
+    public Viitegeneraattori(){
         seuraava = 1;    
     }
     
